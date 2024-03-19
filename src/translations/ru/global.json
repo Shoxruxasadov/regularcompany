@@ -1,0 +1,52 @@
+{
+  "header": {
+    "about": "О нас",
+    "service": "Услуги",
+    "portfolio": "Портфолио",
+    "contact": "Связь"
+  },
+  "hero": {
+    "headtitle": "Regular IT School Поднимите свои знания на новый уровень",
+    "subtitle": "Если вы не строите свою мечту",
+    "bodytitle": "кто-то другой наймёт вас, чтобы помочь построить свою собственную",
+    "contact": "Связаться с нами",
+    "chat": "Мы онлайн",
+    "chatTitle": "Связаться с нами",
+    "chatText": "Как мы можем вам помочь?",
+    "chatPlace": "Напишите здесь"
+  },
+  "about": {
+    "headtitle": "About Us",
+    "subtitle": "If a person sets a goal in life, something will surely cause him to achieve it. Our team lays a quality foundation for the benefit of people for their planned future.",
+    "bodytitle": "We have the maximum level of quality indicators that meet all requirements. Reach your small goals with us while striving for higher goals",
+    "contact": "Contact Us",
+    "know": "Know more"
+  },
+  "service": {
+    "headtitle": "Services",
+    "web": "Design of high-quality and modern landing pages and complex web applications",
+    "uiux": "The process of designing interfaces for digital products such as websites, mobile applications, and software applications",
+    "mobile": "quality and modern development of the mobile applications you want and their technical support",
+    "crm": "Creating a fast and 100% convenient solution system for your business",
+    "logo": "creating a brand name or a shortened version of it, as well as a unique graphic element or design",
+    "media": "Create a professional video according to your taste with the help of top-class video makers in Uzbekistan",
+    "send": {
+      "company": "Enter the company name",
+      "name": "Full name",
+      "phone": "Your phone number",
+      "type": "Type service",
+      "project": "Full information about the project",
+      "enter": "Write here...",
+      "sending": "Sending"
+    }
+  },
+  "portfolio": {
+    "headtitle": "Portfolio",
+    "subtitle": "Things we’re creat"
+  },
+  "contact": {
+    "headtitle": "Contact",
+    "follow": "Follow us on social media!",
+    "location": "Location"
+  }
+}

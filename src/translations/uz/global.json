@@ -1,0 +1,52 @@
+{
+  "header": {
+    "about": "Biz haqimizda",
+    "service": "Xizmatlar",
+    "portfolio": "Portfoilo",
+    "contact": "Bog’lanish"
+  },
+  "hero": {
+    "headtitle": "Regular company Bilimingizni keyingi bosqichga olib chiqing",
+    "subtitle": "Biz bilan qiziqishingizga ko'ra zamonaviy kasblarni mukammal o'rganing!",
+    "bodytitle": "Maqsadimiz yoshlarni zamonaviy kasblarga qiziqtirish, ularga mutaxassislarimiz tomonidan sifatli va tushunarli ta’lim berishdir",
+    "contact": "Biz bilan bog'lanish",
+    "chat": "Biz onlaynmiz",
+    "chatTitle": "Biz bilan bog’laning",
+    "chatText": "Sizga qanday yordam bera olamiz?",
+    "chatPlace": "Bu yerga yozing"
+  },
+  "about": {
+    "headtitle": "Biz haqimizda",
+    "subtitle": "Hayotda inson o’ziga maqsad qo’ysa albatta nimadir unga yetishishga sabab boladi. Bizning jamoa insonlar manfaati uchun ularning rejalshtirilgan kelajagiga sifatli poydevor boladi.",
+    "bodytitle": "Bizda sifat ko’rsatkichlarining maksimal darajasi hamma talablarga javob beradi. Yuqori marralarga intilgan holda biz bilan oz maqsadingizga erishing",
+    "contact": "Bog’lanish",
+    "know": "Koproq bilish"
+  },
+  "service": {
+    "headtitle": "Xizmatlar",
+    "web": "Sifatli va hozirgi kun talabiga javob beradigan landing page va murakkab veb-ilovalarni ishlab chiqish",
+    "uiux": "Web-saytlar, mobil ilovalar va dasturiy ta'minot dasturlari kabi raqamli mahsulotlar  interfeyslarini loyihalash jarayoni",
+    "mobile": "Siz istagan mobil ilovalarni sifatli va zamonaviy tarzda ishlab chiqish va ularni texnik qo’llab-quvvatlash",
+    "crm": "Biznesingiz uchun tez va 100% qulay yechimli tizim yaratish",
+    "logo": "Brend nomini yoki uning qisqartirilgan versiyasini, shuningdek, noyob grafik element yoki dizaynni yasash",
+    "media": "O'zbekistondagi oliy toyifali videomakerlar yordami bilan o'zingizni didingiizga qarab profesional video tayyroalash",
+    "send": {
+      "company": "Kompaniya nomini kiriting",
+      "name": "F.I.Sh",
+      "phone": "Telefon raqamingiz",
+      "type": "Xizmat turi",
+      "project": "Loyiha haqida to’liq ma’lumot",
+      "enter": "Bu yerga yozing...",
+      "sending": "Yuborish"
+    }
+  },
+  "portfolio": {
+    "headtitle": "Portfolio",
+    "subtitle": "BIZ YARATGAN ISHLAR"
+  },
+  "contact": {
+    "headtitle": "Bog’lanish",
+    "follow": "Bizni ijtimoiy tarmoqlarda kuzatib boring!",
+    "location": "Lokatsiya"
+  }
+}
